@@ -53,8 +53,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/lxml/lxml/releases/download/lxml-5.0.0-1/lxml-5.0.0.tar.gz",
-                    "sha256": "67216b13a832adb984cfd20437261236f8c05fc19a0f7d4c59c235fddb17dfdb"
+                    "url": "https://github.com/lxml/lxml/releases/download/lxml-5.3.0/lxml-5.3.0.tar.gz",
+                    "sha256": "4e109ca30d1edec1ac60cdbe341905dc3b8f55b16855e03a54aaf59e51ec8c6f"
                 }
             ]
         },
@@ -65,7 +65,7 @@
                 {
                     "type" : "git",
                     "url" : "https://gitlab.gnome.org/jwestman/blueprint-compiler.git",
-                    "tag" : "v0.10.0"
+                    "tag" : "latest"
                 }
             ]
         },
@@ -75,7 +75,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/sass/sassc.git",
-                    "tag": "3.6.2"
+                    "tag": "latest"
                 },
                 {
                     "type": "script",
@@ -95,7 +95,7 @@
                         {
                             "type": "git",
                             "url": "https://github.com/sass/libsass.git",
-                            "tag": "3.6.6"
+                            "tag": "latest"
                         },
                         {
                             "type": "script",
@@ -123,7 +123,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/flatpak/libportal.git",
-                    "tag": "0.7.1"
+                    "tag": "latest"
                 }
             ]
         },
