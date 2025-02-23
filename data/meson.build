@@ -73,4 +73,4 @@ endif
 
 subdir('icons')
 subdir('shell')
-subdir('submodules')
+subdir('modules')
